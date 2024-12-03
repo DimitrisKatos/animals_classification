@@ -1,0 +1,2260 @@
+2024-11-29 17:52:06,766 [INFO]: Renamed 'cane' to 'dog'.
+2024-11-29 17:52:06,772 [INFO]: Renamed 'cavallo' to 'horse'.
+2024-11-29 17:52:06,776 [INFO]: Renamed 'elefante' to 'elephant'.
+2024-11-29 17:52:06,781 [INFO]: Renamed 'farfalla' to 'butterfly'.
+2024-11-29 17:52:06,785 [INFO]: Renamed 'gallina' to 'chicken'.
+2024-11-29 17:52:06,790 [INFO]: Renamed 'gatto' to 'cat'.
+2024-11-29 17:52:06,793 [INFO]: Renamed 'mucca' to 'cow'.
+2024-11-29 17:52:06,796 [INFO]: Renamed 'pecora' to 'sheep'.
+2024-11-29 17:52:06,802 [INFO]: Renamed 'ragno' to 'spider'.
+2024-11-29 17:52:06,805 [INFO]: Renamed 'scoiattolo' to 'squirrel'.
+2024-11-29 17:52:07,262 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 17:52:07,541 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 17:52:07,732 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 17:52:07,969 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 17:52:08,277 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 17:52:08,451 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 17:52:08,722 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 17:52:08,914 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 17:52:09,313 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 17:52:09,482 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 17:52:09,784 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 17:52:09,970 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 17:52:10,111 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 17:52:10,235 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 17:52:10,452 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 17:52:10,588 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 17:52:10,755 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 17:52:10,914 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 17:52:11,180 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 17:52:11,297 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 17:52:11,785 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 17:52:12,068 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 17:52:12,260 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 17:52:12,453 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 17:52:12,733 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 17:52:12,932 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 17:52:13,170 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 17:52:13,350 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 17:52:13,737 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 17:52:13,887 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 17:52:14,362 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 17:52:14,614 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 17:52:14,759 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 17:52:15,022 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 17:52:15,326 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 17:52:15,545 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 17:52:15,762 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 17:52:15,933 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 17:52:16,242 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 17:52:16,398 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 17:52:16,787 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 17:52:17,163 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 17:52:17,375 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 17:52:17,740 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 17:52:18,159 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 17:52:18,437 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 17:52:18,746 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 17:52:19,009 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 17:52:19,595 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 17:52:19,930 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 17:52:20,469 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 17:52:20,792 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 17:52:21,026 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 17:52:21,304 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 17:52:21,753 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 17:52:22,131 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 17:52:22,414 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 17:52:22,814 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 17:52:23,347 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 17:52:23,680 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 17:52:24,263 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-11-29 17:52:24,476 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-11-29 17:52:24,595 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-11-29 17:52:24,799 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-11-29 17:52:25,045 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-11-29 17:52:25,185 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-11-29 17:52:25,403 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-11-29 17:52:25,621 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-11-29 17:52:25,931 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-11-29 17:52:26,079 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-11-29 18:04:46,577 [INFO]: Renamed 'cane' to 'dog'.
+2024-11-29 18:04:46,582 [INFO]: Renamed 'cavallo' to 'horse'.
+2024-11-29 18:04:46,585 [INFO]: Renamed 'elefante' to 'elephant'.
+2024-11-29 18:04:46,589 [INFO]: Renamed 'farfalla' to 'butterfly'.
+2024-11-29 18:04:46,594 [INFO]: Renamed 'gallina' to 'chicken'.
+2024-11-29 18:04:46,598 [INFO]: Renamed 'gatto' to 'cat'.
+2024-11-29 18:04:46,601 [INFO]: Renamed 'mucca' to 'cow'.
+2024-11-29 18:04:46,604 [INFO]: Renamed 'pecora' to 'sheep'.
+2024-11-29 18:04:46,610 [INFO]: Renamed 'ragno' to 'spider'.
+2024-11-29 18:04:46,612 [INFO]: Renamed 'scoiattolo' to 'squirrel'.
+2024-11-29 18:04:46,998 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 18:04:47,253 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 18:04:47,443 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 18:04:47,616 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 18:04:47,877 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 18:04:48,028 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 18:04:48,211 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 18:04:48,380 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 18:04:48,662 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 18:04:48,778 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 18:04:49,080 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 18:04:49,226 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 18:04:49,349 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 18:04:49,488 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 18:04:49,686 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 18:04:49,795 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 18:04:49,999 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 18:04:50,114 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 18:04:50,379 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 18:04:50,489 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 18:04:50,762 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 18:04:50,958 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 18:04:51,110 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 18:04:51,314 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 18:04:51,581 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 18:04:51,737 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 18:04:51,883 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 18:04:52,084 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 18:04:52,387 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 18:04:52,542 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 18:04:52,880 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 18:04:53,171 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 18:04:53,368 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 18:04:53,569 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 18:04:53,771 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 18:04:53,928 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 18:04:54,140 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 18:04:54,262 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 18:04:54,570 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 18:04:54,730 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 18:04:55,132 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 18:04:55,607 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 18:04:55,959 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 18:04:56,255 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 18:04:56,577 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 18:04:56,806 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 18:04:57,211 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 18:04:57,566 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 18:04:58,251 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 18:04:58,605 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 18:04:59,195 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 18:04:59,581 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 18:04:59,855 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 18:05:00,185 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 18:05:00,649 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 18:05:01,040 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 18:05:01,331 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 18:05:01,655 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 18:05:02,391 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 18:05:02,728 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 18:05:03,252 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-11-29 18:05:03,474 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-11-29 18:05:03,652 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-11-29 18:05:03,834 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-11-29 18:05:04,061 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-11-29 18:05:04,188 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-11-29 18:05:04,356 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-11-29 18:05:04,526 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-11-29 18:05:04,799 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-11-29 18:05:05,034 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-11-29 18:22:27,137 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 18:22:27,138 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 18:23:31,878 [INFO]: Renamed 'cane' to 'dog'.
+2024-11-29 18:23:31,883 [INFO]: Renamed 'cavallo' to 'horse'.
+2024-11-29 18:23:31,886 [INFO]: Renamed 'elefante' to 'elephant'.
+2024-11-29 18:23:31,891 [INFO]: Renamed 'farfalla' to 'butterfly'.
+2024-11-29 18:23:31,896 [INFO]: Renamed 'gallina' to 'chicken'.
+2024-11-29 18:23:31,900 [INFO]: Renamed 'gatto' to 'cat'.
+2024-11-29 18:23:31,904 [INFO]: Renamed 'mucca' to 'cow'.
+2024-11-29 18:23:31,909 [INFO]: Renamed 'pecora' to 'sheep'.
+2024-11-29 18:23:31,917 [INFO]: Renamed 'ragno' to 'spider'.
+2024-11-29 18:23:31,921 [INFO]: Renamed 'scoiattolo' to 'squirrel'.
+2024-11-29 18:23:32,389 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 18:23:32,774 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 18:23:33,077 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 18:23:33,302 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 18:23:33,575 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 18:23:33,765 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 18:23:33,984 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 18:23:34,189 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 18:23:34,802 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 18:23:35,326 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 18:23:36,092 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 18:23:36,392 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 18:23:36,549 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 18:23:36,707 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 18:23:36,896 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 18:23:37,031 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 18:23:37,184 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 18:23:37,290 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 18:23:37,669 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 18:23:37,792 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 18:23:38,120 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 18:23:38,310 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 18:23:38,440 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 18:23:38,647 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 18:23:38,855 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 18:23:39,005 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 18:23:39,146 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 18:23:39,341 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 18:23:40,046 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 18:23:40,232 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 18:23:40,591 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 18:23:41,209 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 18:23:41,674 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 18:23:41,971 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 18:23:42,374 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 18:23:42,763 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 18:23:43,049 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 18:23:43,188 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 18:23:43,550 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 18:23:43,769 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 18:23:44,299 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 18:23:44,703 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 18:23:45,292 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 18:23:45,769 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 18:23:46,275 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 18:23:46,538 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 18:23:46,876 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 18:23:47,179 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 18:23:47,669 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 18:23:48,143 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 18:23:48,655 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 18:23:48,963 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 18:23:49,230 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 18:23:49,511 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 18:23:49,783 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 18:23:50,036 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 18:23:50,327 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 18:23:50,637 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 18:23:51,132 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 18:23:51,473 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 18:23:51,941 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-11-29 18:23:52,194 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-11-29 18:23:52,405 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-11-29 18:23:52,632 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-11-29 18:23:52,856 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-11-29 18:23:53,285 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-11-29 18:23:53,607 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-11-29 18:23:53,868 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-11-29 18:23:54,531 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-11-29 18:23:54,791 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-11-29 18:53:50,373 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 18:53:50,374 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 18:53:50,374 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 18:53:50,374 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 18:53:50,375 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 18:53:50,375 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 18:53:50,375 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 18:53:50,375 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 18:53:50,375 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 18:53:50,375 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 18:53:50,638 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 18:53:50,764 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 18:53:50,852 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 18:53:50,980 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 18:53:51,127 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 18:53:51,210 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 18:53:51,304 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 18:53:51,392 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 18:53:51,610 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 18:53:51,720 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 18:53:51,925 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 18:53:52,040 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 18:53:52,119 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 18:53:52,239 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 18:53:52,374 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 18:53:52,510 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 18:53:52,599 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 18:53:52,692 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 18:53:52,900 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 18:53:52,989 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 18:53:53,226 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 18:53:53,370 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 18:53:53,475 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 18:53:53,593 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 18:53:53,760 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 18:53:53,864 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 18:53:53,973 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 18:53:54,092 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 18:53:54,420 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 18:53:54,555 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 18:53:54,823 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 18:53:54,978 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 18:53:55,095 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 18:53:55,265 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 18:53:55,454 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 18:53:55,557 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 18:53:55,709 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 18:53:55,873 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 18:53:56,110 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 18:53:56,224 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 18:53:56,593 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 18:53:56,813 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 18:53:56,995 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 18:53:57,177 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 18:53:57,424 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 18:53:57,618 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 18:53:57,797 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 18:53:58,095 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 18:53:58,427 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 18:53:58,646 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 18:53:58,976 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 18:53:59,192 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 18:53:59,368 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 18:53:59,570 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 18:53:59,877 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 18:54:00,094 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 18:54:00,292 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 18:54:00,524 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 18:54:00,868 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 18:54:01,166 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:03:57,263 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:03:57,265 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:03:57,265 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:03:57,524 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/dog.
+2024-11-29 19:03:57,666 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/horse.
+2024-11-29 19:03:57,767 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/elephant.
+2024-11-29 19:03:57,912 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/butterfly.
+2024-11-29 19:03:58,083 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/chicken.
+2024-11-29 19:03:58,197 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/cat.
+2024-11-29 19:03:58,332 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/cow.
+2024-11-29 19:03:58,460 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/sheep.
+2024-11-29 19:03:58,707 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/spider.
+2024-11-29 19:03:58,824 [INFO]: 
+Successfully copied 50 image(s) to C:/transformed_dataset_all_images/train/squirrel.
+2024-11-29 19:03:59,035 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:03:59,152 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:03:59,218 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:03:59,322 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:03:59,487 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:03:59,578 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:03:59,665 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:03:59,763 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:03:59,959 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:04:00,097 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:04:00,321 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:04:00,446 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:04:00,575 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:04:00,708 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:04:00,899 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:04:00,995 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:04:01,105 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:04:01,205 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:04:01,432 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:04:01,515 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:04:01,757 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:04:01,963 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:04:02,161 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:04:02,306 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:04:02,512 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:04:02,634 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:04:02,781 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:04:02,936 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:04:03,232 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:04:03,345 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:04:03,581 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:04:03,701 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:04:03,821 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:04:03,938 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:04:04,126 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:04:04,262 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:04:04,376 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:04:04,498 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:04:04,797 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:04:04,889 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:04:05,311 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:04:05,603 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:04:05,792 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:04:05,981 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:04:06,234 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:04:06,402 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:04:06,564 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:04:06,809 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:04:07,099 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:04:07,274 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:04:07,596 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:04:07,877 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:04:08,035 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:04:08,216 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:04:08,472 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:04:08,632 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:04:08,803 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:04:09,022 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:04:09,362 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:04:09,561 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:04:09,837 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-11-29 19:04:10,023 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-11-29 19:04:10,128 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-11-29 19:04:10,269 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-11-29 19:04:10,460 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-11-29 19:04:10,595 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-11-29 19:04:10,706 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-11-29 19:04:10,847 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-11-29 19:04:11,102 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-11-29 19:04:11,213 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-11-29 19:05:04,775 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:05:04,775 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:05:04,775 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:05:04,775 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:05:04,775 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:05:04,775 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:05:04,776 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:05:04,776 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:05:04,776 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:05:04,776 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:05:05,007 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/dog.
+2024-11-29 19:05:05,139 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/horse.
+2024-11-29 19:05:05,220 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/elephant.
+2024-11-29 19:05:05,328 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/butterfly.
+2024-11-29 19:05:05,473 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/chicken.
+2024-11-29 19:05:05,562 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/cat.
+2024-11-29 19:05:05,662 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/cow.
+2024-11-29 19:05:05,804 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/sheep.
+2024-11-29 19:05:06,030 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/spider.
+2024-11-29 19:05:06,135 [INFO]: 
+Successfully copied 50 image(s) to C:/test5/squirrel.
+2024-11-29 19:05:06,325 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:05:06,455 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:05:06,512 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:05:06,592 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:05:06,687 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:05:06,728 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:05:06,791 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:05:06,852 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:05:07,028 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:05:07,091 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:05:07,306 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:05:07,430 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:05:07,476 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:05:07,575 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:05:07,692 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:05:07,779 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:05:07,861 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:05:07,962 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:05:08,164 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:05:08,246 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:05:08,522 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:05:08,706 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:05:08,798 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:05:08,920 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:05:09,062 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:05:09,132 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:05:09,223 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:05:09,300 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:05:09,537 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:05:09,677 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:05:09,882 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:05:10,018 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:05:10,098 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:05:10,173 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:05:10,361 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:05:10,449 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:05:10,521 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:05:10,680 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:05:10,921 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:05:11,043 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:05:11,428 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:05:11,743 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:05:11,909 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:05:12,030 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:05:12,294 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:05:12,463 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:05:12,634 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:05:12,845 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:05:13,205 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:05:13,339 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:05:13,657 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:05:13,957 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:05:14,128 [INFO]: 
+Successfully copied 96 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:05:14,321 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:05:14,592 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:05:14,778 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:05:14,980 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:05:15,141 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:05:15,459 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:05:15,606 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:05:15,860 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-11-29 19:05:16,047 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-11-29 19:05:16,049 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-11-29 19:05:16,164 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-11-29 19:05:16,315 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-11-29 19:05:16,433 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-11-29 19:05:16,541 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-11-29 19:05:16,682 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-11-29 19:05:17,028 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-11-29 19:05:17,136 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-11-29 19:06:11,445 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:06:11,446 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:06:11,760 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/dog.
+2024-11-29 19:06:11,893 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/horse.
+2024-11-29 19:06:11,894 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/elephant.
+2024-11-29 19:06:12,016 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/butterfly.
+2024-11-29 19:06:12,173 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/chicken.
+2024-11-29 19:06:12,293 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/cat.
+2024-11-29 19:06:12,398 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/cow.
+2024-11-29 19:06:12,521 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/sheep.
+2024-11-29 19:06:12,768 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/spider.
+2024-11-29 19:06:12,869 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/squirrel.
+2024-11-29 19:06:13,104 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:06:13,190 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:06:13,191 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:06:13,308 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:06:13,428 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:06:13,481 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:06:13,585 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:06:13,620 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:06:13,791 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:06:13,878 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:06:14,061 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:06:14,156 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:06:14,157 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:06:14,202 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:06:14,309 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:06:14,392 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:06:14,438 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:06:14,476 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:06:14,645 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:06:14,718 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:06:14,946 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:06:15,097 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:06:15,098 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:06:15,214 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:06:15,333 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:06:15,397 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:06:15,485 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:06:15,592 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:06:15,838 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:06:15,937 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:06:16,156 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:06:16,248 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:06:16,248 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:06:16,312 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:06:16,422 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:06:16,491 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:06:16,645 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:06:16,730 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:06:16,918 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:06:17,026 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:06:17,399 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:06:17,603 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:06:17,603 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:06:17,741 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:06:18,024 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:06:18,178 [INFO]: 
+Successfully copied 68 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:06:18,363 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:06:18,603 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:06:18,935 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:06:19,066 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:06:19,355 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:06:19,555 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:06:19,557 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:06:19,748 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:06:19,943 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:06:19,944 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:06:20,050 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:06:20,186 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:06:20,482 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:06:20,631 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:06:20,916 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-11-29 19:06:21,096 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-11-29 19:06:21,098 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-11-29 19:06:21,226 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-11-29 19:06:21,405 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-11-29 19:06:21,408 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-11-29 19:06:21,616 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-11-29 19:06:21,716 [INFO]: 
+Successfully copied 20 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-11-29 19:06:21,995 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-11-29 19:06:22,096 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-11-29 19:08:24,944 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:08:24,945 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:08:24,945 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:08:24,945 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:08:24,945 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:08:24,945 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:08:24,945 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:08:24,946 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:08:24,946 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:08:24,946 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:08:25,156 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:08:25,229 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:08:25,230 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:08:25,265 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:08:25,359 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:08:25,359 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:08:25,403 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:08:25,449 [INFO]: 
+Successfully copied 20 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:08:25,599 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:08:25,679 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:08:25,875 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:08:25,930 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:08:25,931 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:08:25,977 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:08:26,056 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:08:26,056 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:08:26,087 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:08:26,088 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:08:26,272 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:08:26,304 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:08:26,506 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:08:26,594 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:08:26,594 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:08:26,644 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:08:26,736 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:08:26,736 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:08:26,775 [INFO]: 
+Successfully copied 16 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:08:26,776 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:08:26,990 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:08:27,023 [INFO]: 
+Successfully copied 12 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:08:27,206 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:08:27,304 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:08:27,305 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:08:27,379 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:08:27,481 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:08:27,483 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:08:27,484 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:08:27,485 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:08:27,726 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:08:27,728 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:08:28,064 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:08:28,215 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:08:28,215 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:08:28,355 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:08:28,617 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:08:28,618 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:08:28,619 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:08:28,620 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:08:28,873 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:08:28,874 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:08:29,131 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:08:29,334 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:08:29,335 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:08:29,449 [INFO]: 
+Successfully copied 62 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:08:29,624 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:08:29,625 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:08:29,626 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:08:29,627 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:08:29,913 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:08:29,913 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:08:54,705 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:08:54,705 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:08:54,705 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:08:54,705 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:08:54,705 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:08:54,705 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:08:54,706 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:08:54,706 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:08:54,706 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:08:54,706 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:08:54,909 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:08:54,978 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:08:54,979 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:08:54,979 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:08:55,038 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:08:55,039 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:08:55,040 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:08:55,040 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:08:55,171 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:08:55,172 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:08:55,333 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:08:55,372 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:08:55,373 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:08:55,374 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:08:55,431 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:08:55,433 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:08:55,433 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:08:55,434 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:08:55,561 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:08:55,561 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:08:55,745 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:08:55,815 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:08:55,816 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:08:55,816 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:08:55,936 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:08:55,936 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:08:55,937 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:08:55,937 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:08:56,133 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:08:56,133 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:08:56,343 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:08:56,427 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:08:56,427 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:08:56,428 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:08:56,519 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:08:56,520 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:08:56,521 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:08:56,521 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:08:56,735 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:08:56,736 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:08:57,006 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:08:57,120 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:08:57,121 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:08:57,121 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:08:57,326 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:08:57,326 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:08:57,327 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:08:57,327 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:08:57,593 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:08:57,594 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:08:57,955 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:08:58,167 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:08:58,167 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:08:58,168 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:08:58,324 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:08:58,326 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:08:58,326 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:08:58,327 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:08:58,571 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:08:58,571 [INFO]: 
+Successfully copied 0 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:12:33,040 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:13:38,373 [INFO]: Renamed 'cane' to 'dog'.
+2024-11-29 19:13:38,378 [INFO]: Renamed 'cavallo' to 'horse'.
+2024-11-29 19:13:38,381 [INFO]: Renamed 'elefante' to 'elephant'.
+2024-11-29 19:13:38,384 [INFO]: Renamed 'farfalla' to 'butterfly'.
+2024-11-29 19:13:38,389 [INFO]: Renamed 'gallina' to 'chicken'.
+2024-11-29 19:13:38,392 [INFO]: Renamed 'gatto' to 'cat'.
+2024-11-29 19:13:38,395 [INFO]: Renamed 'mucca' to 'cow'.
+2024-11-29 19:13:38,399 [INFO]: Renamed 'pecora' to 'sheep'.
+2024-11-29 19:13:38,404 [INFO]: Renamed 'ragno' to 'spider'.
+2024-11-29 19:13:38,407 [INFO]: Renamed 'scoiattolo' to 'squirrel'.
+2024-11-29 19:13:39,385 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/dog.
+2024-11-29 19:13:40,317 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/horse.
+2024-11-29 19:13:41,065 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/elephant.
+2024-11-29 19:13:41,958 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/butterfly.
+2024-11-29 19:13:42,867 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/chicken.
+2024-11-29 19:13:43,639 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/cat.
+2024-11-29 19:13:44,343 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/cow.
+2024-11-29 19:13:45,008 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/sheep.
+2024-11-29 19:13:45,798 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/spider.
+2024-11-29 19:13:46,438 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_all_images/train/squirrel.
+2024-11-29 19:13:46,700 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:13:46,849 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:13:46,958 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:13:47,084 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:13:47,273 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:13:47,398 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:13:47,520 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:13:47,637 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:13:47,900 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:13:48,047 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:13:48,385 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:13:48,584 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:13:48,664 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:13:48,785 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:13:48,944 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:13:49,054 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:13:49,211 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:13:49,349 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:13:49,642 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:13:49,775 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:13:50,141 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:13:50,338 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:13:50,443 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:13:50,673 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:13:50,889 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:13:51,050 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:13:51,242 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:13:51,387 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:13:51,731 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:13:51,947 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:13:52,218 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:13:52,409 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:13:52,528 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:13:52,656 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:13:52,898 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:13:53,087 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:13:53,275 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:13:53,460 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:13:53,698 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:13:53,858 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:13:54,239 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:13:54,599 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:13:54,844 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:13:55,112 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:13:55,370 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:13:55,620 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:13:55,780 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:13:55,966 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:13:56,305 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:13:56,482 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:13:56,860 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:13:57,289 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:13:57,506 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:13:57,808 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:13:58,092 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:13:58,331 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:13:58,550 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:13:58,765 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:13:59,060 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:13:59,296 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:17:31,932 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:17:31,932 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:17:31,933 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:17:32,164 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:17:32,296 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:17:32,369 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:17:32,484 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:17:32,644 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:17:32,731 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:17:32,859 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:17:32,948 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:17:33,217 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:17:33,302 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:17:33,512 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:17:33,687 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:17:33,794 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:17:33,896 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:17:34,041 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:17:34,164 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:17:34,245 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:17:34,349 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:17:34,577 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:17:34,704 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:17:34,923 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:17:35,097 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:17:35,241 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:17:35,368 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:17:35,574 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:17:35,703 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:17:35,824 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:17:36,010 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:17:36,294 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:17:36,460 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:17:36,717 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:17:36,902 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:17:36,984 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:17:37,136 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:17:37,398 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:17:37,529 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:17:37,706 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:17:37,845 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:17:38,071 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:17:38,219 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:17:38,557 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:17:38,839 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:17:39,072 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:17:39,349 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:17:39,636 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:17:39,890 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:17:40,100 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:17:40,315 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:17:40,596 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:17:40,789 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:17:41,128 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:17:41,400 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:17:41,545 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:17:41,813 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:17:42,113 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:17:42,334 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:17:42,553 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:17:42,906 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:17:43,184 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:17:43,387 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:18:43,012 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:18:43,012 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:18:43,013 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:18:43,595 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:18:44,080 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:18:44,508 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:18:44,892 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:18:45,307 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:18:45,567 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:18:45,935 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:18:46,324 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:18:46,752 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:18:47,117 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:18:47,587 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:18:48,071 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:18:48,383 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:18:48,877 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:18:49,319 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:18:49,742 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:18:50,066 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:18:50,382 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:18:50,831 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:18:51,140 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:18:51,902 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:18:52,490 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:18:53,024 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:18:53,611 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:18:54,237 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:18:54,816 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:18:55,511 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:18:56,144 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:18:56,822 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:18:57,369 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:18:58,107 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:18:58,754 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:18:59,285 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:18:59,838 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:19:00,478 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:19:01,040 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:19:01,574 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:19:02,084 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:19:02,729 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:19:03,276 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:19:04,545 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:19:05,698 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:19:06,619 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:19:07,670 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:19:08,894 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:19:09,897 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:19:10,913 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:19:11,970 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:19:13,076 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:19:14,145 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:19:15,449 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:19:16,599 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:19:17,471 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:19:18,578 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:19:19,724 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:19:20,556 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:19:21,520 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:19:22,557 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:19:23,694 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:19:24,639 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:21:33,826 [WARNING]: Directory 'cane' not found, skipping.
+2024-11-29 19:21:33,826 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'elefante' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'gallina' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'gatto' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'mucca' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'pecora' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'ragno' not found, skipping.
+2024-11-29 19:21:33,827 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-11-29 19:21:34,253 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-11-29 19:21:34,569 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-11-29 19:21:34,760 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-11-29 19:21:35,039 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-11-29 19:21:35,451 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-11-29 19:21:35,675 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-11-29 19:21:35,972 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-11-29 19:21:36,236 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-11-29 19:21:36,674 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-11-29 19:21:36,982 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-11-29 19:21:37,411 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-11-29 19:21:37,744 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-11-29 19:21:37,980 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-11-29 19:21:38,297 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-11-29 19:21:38,637 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-11-29 19:21:38,867 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-11-29 19:21:39,104 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-11-29 19:21:39,436 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-11-29 19:21:39,839 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-11-29 19:21:40,060 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-11-29 19:21:40,716 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-11-29 19:21:41,302 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-11-29 19:21:41,687 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-11-29 19:21:42,206 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-11-29 19:21:42,776 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-11-29 19:21:43,240 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-11-29 19:21:43,726 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-11-29 19:21:44,249 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-11-29 19:21:45,088 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-11-29 19:21:45,639 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-11-29 19:21:46,418 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-11-29 19:21:46,923 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-11-29 19:21:47,284 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-11-29 19:21:47,779 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-11-29 19:21:48,404 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-11-29 19:21:48,838 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-11-29 19:21:49,287 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-11-29 19:21:49,684 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-11-29 19:21:50,329 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-11-29 19:21:50,750 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-11-29 19:21:52,071 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-11-29 19:21:52,991 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-11-29 19:21:53,559 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-11-29 19:21:54,588 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-11-29 19:21:55,614 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-11-29 19:21:56,254 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-11-29 19:21:57,083 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-11-29 19:21:57,888 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-11-29 19:21:59,046 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-11-29 19:21:59,848 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-11-29 19:22:00,942 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-11-29 19:22:01,818 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-11-29 19:22:02,391 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-11-29 19:22:03,402 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-11-29 19:22:04,343 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-11-29 19:22:05,059 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-11-29 19:22:05,758 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-11-29 19:22:06,542 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-11-29 19:22:07,596 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-11-29 19:22:08,362 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-11-29 19:22:08,987 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-11-29 19:22:09,531 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-11-29 19:22:09,954 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-11-29 19:22:10,525 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-11-29 19:22:11,094 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-11-29 19:22:11,427 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-11-29 19:22:11,975 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-11-29 19:22:12,382 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-11-29 19:22:13,020 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-11-29 19:22:13,442 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-12-03 08:13:29,084 [INFO]: Renamed 'cane' to 'dog'.
+2024-12-03 08:13:29,091 [INFO]: Renamed 'cavallo' to 'horse'.
+2024-12-03 08:13:29,095 [INFO]: Renamed 'elefante' to 'elephant'.
+2024-12-03 08:13:29,102 [INFO]: Renamed 'farfalla' to 'butterfly'.
+2024-12-03 08:13:29,109 [INFO]: Renamed 'gallina' to 'chicken'.
+2024-12-03 08:13:29,115 [INFO]: Renamed 'gatto' to 'cat'.
+2024-12-03 08:13:29,119 [INFO]: Renamed 'mucca' to 'cow'.
+2024-12-03 08:13:29,124 [INFO]: Renamed 'pecora' to 'sheep'.
+2024-12-03 08:13:29,133 [INFO]: Renamed 'ragno' to 'spider'.
+2024-12-03 08:13:29,137 [INFO]: Renamed 'scoiattolo' to 'squirrel'.
+2024-12-03 08:13:29,964 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-12-03 08:13:30,522 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-12-03 08:13:30,985 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-12-03 08:13:31,482 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-12-03 08:13:32,004 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-12-03 08:13:32,470 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-12-03 08:13:32,903 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-12-03 08:13:33,312 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-12-03 08:13:33,845 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-12-03 08:13:34,204 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-12-03 08:13:51,486 [WARNING]: Directory 'cane' not found, skipping.
+2024-12-03 08:13:51,486 [WARNING]: Directory 'cavallo' not found, skipping.
+2024-12-03 08:13:51,486 [WARNING]: Directory 'elefante' not found, skipping.
+2024-12-03 08:13:51,486 [WARNING]: Directory 'farfalla' not found, skipping.
+2024-12-03 08:13:51,487 [WARNING]: Directory 'gallina' not found, skipping.
+2024-12-03 08:13:51,487 [WARNING]: Directory 'gatto' not found, skipping.
+2024-12-03 08:13:51,487 [WARNING]: Directory 'mucca' not found, skipping.
+2024-12-03 08:13:51,487 [WARNING]: Directory 'pecora' not found, skipping.
+2024-12-03 08:13:51,487 [WARNING]: Directory 'ragno' not found, skipping.
+2024-12-03 08:13:51,487 [WARNING]: Directory 'scoiattolo' not found, skipping.
+2024-12-03 08:13:51,979 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-12-03 08:13:52,405 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-12-03 08:13:52,746 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-12-03 08:13:53,126 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-12-03 08:13:53,530 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-12-03 08:13:53,847 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-12-03 08:13:54,174 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-12-03 08:13:54,509 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-12-03 08:13:54,979 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-12-03 08:13:55,323 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-12-03 08:13:55,791 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-12-03 08:13:56,175 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-12-03 08:13:56,489 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-12-03 08:13:56,877 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-12-03 08:13:57,272 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-12-03 08:13:57,638 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-12-03 08:13:58,035 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-12-03 08:13:58,410 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-12-03 08:13:58,854 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-12-03 08:13:59,223 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-12-03 08:14:00,184 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-12-03 08:14:00,882 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-12-03 08:14:01,634 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-12-03 08:14:02,214 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-12-03 08:14:02,861 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-12-03 08:14:03,416 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-12-03 08:14:03,983 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-12-03 08:14:04,546 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-12-03 08:14:05,300 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-12-03 08:14:05,893 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-12-03 08:14:06,756 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-12-03 08:14:07,388 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-12-03 08:14:07,926 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-12-03 08:14:08,506 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-12-03 08:14:09,217 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-12-03 08:14:09,820 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-12-03 08:14:10,397 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-12-03 08:14:10,966 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-12-03 08:14:11,683 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-12-03 08:14:12,376 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-12-03 08:14:13,604 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-12-03 08:14:14,772 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-12-03 08:14:15,873 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-12-03 08:14:16,940 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-12-03 08:14:17,969 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-12-03 08:14:19,103 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-12-03 08:14:20,152 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-12-03 08:14:21,166 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-12-03 08:14:22,459 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-12-03 08:14:23,603 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-12-03 08:14:24,956 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-12-03 08:14:26,000 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-12-03 08:14:26,956 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-12-03 08:14:28,161 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-12-03 08:14:29,277 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-12-03 08:14:30,197 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-12-03 08:14:31,259 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-12-03 08:14:32,279 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-12-03 08:14:33,442 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-12-03 08:14:34,546 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-12-03 08:14:35,203 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-12-03 08:14:35,830 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-12-03 08:14:36,398 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-12-03 08:14:36,927 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-12-03 08:14:37,565 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-12-03 08:14:38,079 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-12-03 08:14:38,604 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-12-03 08:14:39,117 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-12-03 08:14:39,766 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-12-03 08:14:40,285 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
+2024-12-03 08:15:52,890 [INFO]: Renamed 'cane' to 'dog'.
+2024-12-03 08:15:52,895 [INFO]: Renamed 'cavallo' to 'horse'.
+2024-12-03 08:15:52,898 [INFO]: Renamed 'elefante' to 'elephant'.
+2024-12-03 08:15:52,903 [INFO]: Renamed 'farfalla' to 'butterfly'.
+2024-12-03 08:15:52,908 [INFO]: Renamed 'gallina' to 'chicken'.
+2024-12-03 08:15:52,912 [INFO]: Renamed 'gatto' to 'cat'.
+2024-12-03 08:15:52,915 [INFO]: Renamed 'mucca' to 'cow'.
+2024-12-03 08:15:52,919 [INFO]: Renamed 'pecora' to 'sheep'.
+2024-12-03 08:15:52,925 [INFO]: Renamed 'ragno' to 'spider'.
+2024-12-03 08:15:52,929 [INFO]: Renamed 'scoiattolo' to 'squirrel'.
+2024-12-03 08:15:53,584 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\dog.
+2024-12-03 08:15:54,173 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\horse.
+2024-12-03 08:15:54,630 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\elephant.
+2024-12-03 08:15:55,171 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\butterfly.
+2024-12-03 08:15:55,624 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\chicken.
+2024-12-03 08:15:56,009 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cat.
+2024-12-03 08:15:56,416 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\cow.
+2024-12-03 08:15:56,793 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\sheep.
+2024-12-03 08:15:57,338 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\spider.
+2024-12-03 08:15:57,749 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\train\squirrel.
+2024-12-03 08:15:58,322 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\dog.
+2024-12-03 08:15:58,803 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\horse.
+2024-12-03 08:15:59,221 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\elephant.
+2024-12-03 08:15:59,572 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\butterfly.
+2024-12-03 08:15:59,953 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\chicken.
+2024-12-03 08:16:00,353 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cat.
+2024-12-03 08:16:00,794 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\cow.
+2024-12-03 08:16:01,190 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\sheep.
+2024-12-03 08:16:01,664 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\spider.
+2024-12-03 08:16:02,056 [INFO]: 
+Successfully copied 25 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_25_images\valid\squirrel.
+2024-12-03 08:16:02,843 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\dog.
+2024-12-03 08:16:03,488 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\horse.
+2024-12-03 08:16:04,071 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\elephant.
+2024-12-03 08:16:04,625 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\butterfly.
+2024-12-03 08:16:05,256 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\chicken.
+2024-12-03 08:16:05,978 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cat.
+2024-12-03 08:16:06,573 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\cow.
+2024-12-03 08:16:07,236 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\sheep.
+2024-12-03 08:16:07,984 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\spider.
+2024-12-03 08:16:08,627 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\train\squirrel.
+2024-12-03 08:16:09,459 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\dog.
+2024-12-03 08:16:10,076 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\horse.
+2024-12-03 08:16:10,652 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\elephant.
+2024-12-03 08:16:11,276 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\butterfly.
+2024-12-03 08:16:11,913 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\chicken.
+2024-12-03 08:16:12,538 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cat.
+2024-12-03 08:16:13,198 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\cow.
+2024-12-03 08:16:13,770 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\sheep.
+2024-12-03 08:16:14,510 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\spider.
+2024-12-03 08:16:15,138 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_50_images\valid\squirrel.
+2024-12-03 08:16:16,416 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\dog.
+2024-12-03 08:16:17,658 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\horse.
+2024-12-03 08:16:18,663 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\elephant.
+2024-12-03 08:16:19,666 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\butterfly.
+2024-12-03 08:16:20,841 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\chicken.
+2024-12-03 08:16:21,829 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cat.
+2024-12-03 08:16:22,858 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\cow.
+2024-12-03 08:16:23,971 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\sheep.
+2024-12-03 08:16:25,257 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\spider.
+2024-12-03 08:16:26,323 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\train\squirrel.
+2024-12-03 08:16:27,565 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\dog.
+2024-12-03 08:16:28,649 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\horse.
+2024-12-03 08:16:29,628 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\elephant.
+2024-12-03 08:16:30,623 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\butterfly.
+2024-12-03 08:16:31,755 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\chicken.
+2024-12-03 08:16:32,698 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cat.
+2024-12-03 08:16:33,605 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\cow.
+2024-12-03 08:16:34,664 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\sheep.
+2024-12-03 08:16:35,886 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\spider.
+2024-12-03 08:16:36,928 [INFO]: 
+Successfully copied 100 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\transformed_dataset_100_images\valid\squirrel.
+2024-12-03 08:16:37,677 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/dog.
+2024-12-03 08:16:38,297 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/horse.
+2024-12-03 08:16:38,743 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/elephant.
+2024-12-03 08:16:39,250 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/butterfly.
+2024-12-03 08:16:39,838 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/chicken.
+2024-12-03 08:16:40,337 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cat.
+2024-12-03 08:16:40,843 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/cow.
+2024-12-03 08:16:41,513 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/sheep.
+2024-12-03 08:16:42,378 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/spider.
+2024-12-03 08:16:43,035 [INFO]: 
+Successfully copied 50 image(s) to C:\Users\dimit\OneDrive\Desktop\my_work_git\animals_classification\test/squirrel.
