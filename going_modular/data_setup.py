@@ -1,5 +1,5 @@
 """
-  Contains functionality for creating PyToarch Dataloaders for
+  Contains functionality for creating PyTorch Dataloaders for
   image classification.
 """
 import os

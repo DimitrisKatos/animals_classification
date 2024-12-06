@@ -37,7 +37,7 @@ def main():
     delete_directory(directory_path= BASE_DIR +'/transformed_dataset_50_images')
     delete_directory(directory_path= BASE_DIR +'/transformed_dataset_100_images')
     delete_directory(directory_path= BASE_DIR +'/transformed_dataset_25_images')
-    delete_directory(directory_path= BASE_DIR + '/transformed_dataset_all_images')
+    delete_directory(directory_path= BASE_DIR + '/tranformed_dataset_all_images')
     delete_directory(directory_path= BASE_DIR +'/raw-img')
     delete_directory(directory_path= BASE_DIR +'/test')
 if __name__ == "__main__":
