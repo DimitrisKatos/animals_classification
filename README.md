@@ -1,14 +1,13 @@
-# Animals Classification -- Porject in PROCESS 
+# Animals Classification -- Project in PROCESS 
 
-In this Notebook we will make different machine learning models to classify 10 different animals. We will both use PyTorch and TensorFlow to create many models.
 In this project we will try to classify animals in 10 different classes. The project contains the following:
-1. Data Preprocessing: In this part we turn the data into a format that is more useful for our project. We also create many different dataset that contains training, testing and validation sets.
+1. **Data Preprocessing**: In this part we turn the data into a format that is more useful for our project. We also create many different dataset that contains training, testing and validation sets.
 
-2. Modeling with PyTorch: We our modeling using PyTorch, and we track our experiments.
+2. **Modeling with PyTorch**: We our modeling using PyTorch, and we track our experiments.
 
-3. Modeling using TensorFlow: We use TensorFlow to create models with different hyperparameters.
+3. **Modeling using TensorFlow**: We use TensorFlow to create models with different hyperparameters.
 
-4. Deploy model: Deploy the best model in HuggingFace Spaces.
+4. **Deploy model**: Deploy the best model in HuggingFace Spaces.
 
 
 # 1. Data Preprocessing.
